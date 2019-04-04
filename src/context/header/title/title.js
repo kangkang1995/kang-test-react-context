@@ -1,6 +1,6 @@
 import React from 'react';
 import ThemeContext from '../../ThemeContext';
-import BtnView from '../../btnView/btnView'
+import BtnView from './btnView/btnView'
 class Title extends React.Component {
 
   _testClick = (context) => {
